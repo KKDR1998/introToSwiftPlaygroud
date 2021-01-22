@@ -56,8 +56,12 @@ var numberTwo = 7
 // To make it false, change '<' into '>'
 var comparison = numberOne > numberTwo
 
+//Part 7: on your own, using the 'Equal to' Operator
+var booBoom = 4
+var kuuKuun = 9
 
+//create third variable for statement the evaluates the two variables equal to each other.
+var jaaJaak = booBoom == kuuKuun
 
-
-
-
+//print third variable
+print(jaaJaak)
