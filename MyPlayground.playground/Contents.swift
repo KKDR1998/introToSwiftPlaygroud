@@ -34,3 +34,30 @@ var myNewVariableFour = myNewVariableOne + myNewVariableTwo + myNewVariableThree
 print(myNewVariableFour)
 
 // If I want spaces to appear in the message, if I have multiple sentences, I just have to put a space at the end of the sentence "I read books.", instead I do "I read books. "
+
+
+// Assignment #2 Introduction to True and False
+
+// Creating boolean variable
+var appState = false
+
+//Printing appState
+print(appState)
+
+//Comparing variables using > (greater than) or (less than)
+//Creating variables
+var numberOne = 5
+var numberTwo = 7
+
+//Creating statement that compares the two variables and assign the evaluation of the statement to third variable
+
+
+//For it to be true: var comparison = numberOne < numberTwo
+// To make it false, change '<' into '>'
+var comparison = numberOne > numberTwo
+
+
+
+
+
+
